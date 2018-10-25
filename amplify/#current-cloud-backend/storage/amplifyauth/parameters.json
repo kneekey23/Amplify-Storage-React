@@ -1,0 +1,9 @@
+{
+    "bucketName": "amplify-nicki-demo",
+    "authPolicyName": "s3_amplify_2b47df20",
+    "unauthPolicyName": "s3_amplify_2b47df20",
+    "authRoleName": "amplifytestapp-20181023201248-authRole",
+    "unauthRoleName": "amplifytestapp-20181023201248-unauthRole",
+    "authPermissions": "rw",
+    "unauthPermissions": "rw"
+}
